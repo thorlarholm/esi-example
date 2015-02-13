@@ -1,0 +1,26 @@
+{
+  "name": "esi-example",
+  "version": "0.6.0",
+  "description": "Example use of ESI middleware",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thorlarholm/esi-example.git"
+  },
+  "keywords": [
+    "ESI"
+  ],
+  "author": "Thor Larholm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thorlarholm/esi-example/issues"
+  },
+  "homepage": "https://github.com/thorlarholm/esi-example",
+  "dependencies": {
+    "esi": "^0.7.5",
+    "express": "^4.11.2"
+  }
+}
